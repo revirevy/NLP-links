@@ -8,7 +8,7 @@
   https://towardsdatascience.com/mapping-my-facebook-data-part-1-simple-nlp-98ce41f7f27d
   
 
-* [PyFormat] 'https://pyformat.info/#conversion_flags)
+* [PyFormat](https://pyformat.info/#conversion_flags)
 
  Using % and .format() for great good!
  Python has had awesome string formatters for many years but the documentation on them is far too theoretic and technical. With this site we try to show you the most common use-cases covered by the old and new style string formatting API with practical examples. 
@@ -31,7 +31,7 @@ By [Jason Brownlee](https://machinelearningmastery.com/author/jasonb/)  on Septe
 Spot-checking algorithms is a technique in applied machine learning designed to quickly and objectively provide a first set of results on a new predictive modeling problem.
 
 
-* [SeVeN: Semantic Vector Networks] (https://bitbucket.org/luisespinosa/seven)
+* [SeVeN: Semantic Vector Networks](https://bitbucket.org/luisespinosa/seven)
   SeVeN is a resource that aims at bridging the gap between discrete relation labels that may be found in resources like WordNet and attributional and relational information naturally encoded in word embeddings.
   
   
